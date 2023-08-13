@@ -1,0 +1,17 @@
+{
+  "name": "editly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.3.1",
+    "editly": "^0.14.2",
+    "uuid": "^9.0.0"
+  }
+}
